@@ -84,7 +84,7 @@ leetcode/
 
 ## 📈 LeetCode Profile
 
-[My LeetCode Profile](https://leetcode.com/u/YOUR_USERNAME)
+[My LeetCode Profile](https://leetcode.com/u/RISHAD_777)
 
 ## 🌟 Goals
 
