@@ -73,14 +73,7 @@ journey
 | Medium | 25 |
 | Hard | 5 |
 
-## 📂 Repository Structure
 
-```text
-leetcode/
-├── Easy/
-├── Medium/
-├── Hard/
-```
 
 ## 📈 LeetCode Profile
 
